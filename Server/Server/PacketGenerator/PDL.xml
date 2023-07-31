@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<PDL>
+	<packet name="S_BroadcastEnter">
+		<int name="sessionId"/>
+		<int name="objId"/>
+		<bool name="isPlayer"/>
+		<float name="hp"/>
+		<float name="posX"/>
+		<float name="posY"/>
+		<float name="posZ"/>
+		<float name="angX"/>
+		<float name="angY"/>
+		<float name="angZ"/>
+	</packet>
+	
+	<packet name="C_LeaveGame">
+		<int name="objId"/>
+	</packet>
+	
+	<packet name="S_BroadcastLeaveGame">
+		<int name="objId"/>
+	</packet>
+	
+	<packet name="C_Move">
+		<int name="objId"/>
+		<int name="inputForward"/>
+		<int name="rotateRight"/>
+		<float name="forwardX"/>
+		<float name="forwardY"/>
+		<float name="forwardZ"/>
+	</packet>
+	
+	<packet name="S_BroadcastMove">
+		<int name="objId"/>
+		<float name="speed"/>
+		<float name="posX"/>
+		<float name="posY"/>
+		<float name="posZ"/>
+		<float name="AngX"/>
+		<float name="AngY"/>
+		<float name="ANgZ"/>
+	</packet>
+	
+	<packet name="C_Shoot">
+		<int name="objId"/>
+		<float name="power"/>
+	</packet>
+
+	<packet name="S_BroadcastSpawnMissle">
+		<int name="objId"/>
+		<float name="posX"/>
+		<float name="posY"/>
+		<float name="posZ"/>
+		<float name="AngX"/>
+		<float name="AngY"/>
+		<float name="ANgZ"/>
+	</packet>
+
+	<packet name="S_BroadcastDespawnMissle">
+		<int name="objId"/>
+	</packet>
+
+	<packet name="S_BroadcastDamage">
+		<int name="objId"/>
+		<float name="damage"/>
+	</packet>
+	
+	<packet name="S_BroadcastUpdateNewScore">
+		<int name="objId"/>
+		<int name="score"/>
+	</packet>
+</PDL>

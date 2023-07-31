@@ -1,0 +1,60 @@
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.deps.json
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.pdb
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.AssemblyReference.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfo.cs
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\refint\ServerCore.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.pdb
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\ServerCore\obj\Debug\net7.0\ref\ServerCore.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.deps.json
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.pdb
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.AssemblyReference.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfo.cs
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\refint\ServerCore.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.pdb
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork2\Server\Server\ServerCore\obj\Debug\net7.0\ref\ServerCore.dll
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.AssemblyReference.cache
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfoInputs.cache
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfo.cs
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.CoreCompileInputs.cache
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.dll
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\refint\ServerCore.dll
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.pdb
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.deps.json
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.dll
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.pdb
+D:\프로젝트\Tank\230729_Tank\Server\Server\ServerCore\obj\Debug\net7.0\ref\ServerCore.dll
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.deps.json
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.dll
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.pdb
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.AssemblyReference.cache
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfoInputs.cache
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfo.cs
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.CoreCompileInputs.cache
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.dll
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\refint\ServerCore.dll
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.pdb
+D:\프로젝트\Tank\230730_Tank_2\Server\Server\ServerCore\obj\Debug\net7.0\ref\ServerCore.dll
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.deps.json
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.dll
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\bin\Debug\net7.0\ServerCore.pdb
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.AssemblyReference.cache
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfoInputs.cache
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.AssemblyInfo.cs
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.csproj.CoreCompileInputs.cache
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.dll
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\refint\ServerCore.dll
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\ServerCore.pdb
+D:\프로젝트\Tank\230730_Tank_3\Server\Server\ServerCore\obj\Debug\net7.0\ref\ServerCore.dll

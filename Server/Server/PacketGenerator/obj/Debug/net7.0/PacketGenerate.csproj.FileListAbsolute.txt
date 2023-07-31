@@ -1,0 +1,15 @@
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\bin\Debug\net7.0\PacketGenerate.exe
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\bin\Debug\net7.0\PacketGenerate.deps.json
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\bin\Debug\net7.0\PacketGenerate.runtimeconfig.json
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\bin\Debug\net7.0\PacketGenerate.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\bin\Debug\net7.0\PacketGenerate.pdb
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\PacketGenerate.csproj.AssemblyReference.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\PacketGenerate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\PacketGenerate.AssemblyInfoInputs.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\PacketGenerate.AssemblyInfo.cs
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\PacketGenerate.csproj.CoreCompileInputs.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\PacketGenerate.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\refint\PacketGenerate.dll
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\PacketGenerate.pdb
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\PacketGenerate.genruntimeconfig.cache
+C:\Users\aa550\OneDrive\바탕 화면\TanksCharpNetwork\Server\Server\PacketGenerate\obj\Debug\net7.0\ref\PacketGenerate.dll
